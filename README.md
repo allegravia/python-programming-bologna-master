@@ -3,14 +3,21 @@
 
 ### Allegra Via - allegra.via@uniroma1.it
 
+### Useful links
+Shared notes from 20-11-2018: http://bit.ly/2qUJsNH
+Software Carpentry website: https://software-carpentry.org
+SWC The Unix Shell: http://swcarpentry.github.io/shell-novice/
+SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
+GitHub Hello World guide: https://guides.github.com/activities/hello-world/
+Guide to create a GitHub account: https://lab.github.com
+
 ## Timetable
 
-### Tue 20th Nov 2018: 10:00-13:00 & 14:00-17:00
-Shared notes: http://bit.ly/2qUJsNH
-### Tue 27th Nov 2018: 10:00-13:00 & 14:00-17:00
-### Tue 04th Dec 2018: 10:00-13:00 & 14:00-17:00 
-### Tue 10th Dec 2018: 10:00-13:00 & 14:00-17:00
-### Tue 18th Dec 2018: 10:00-13:00 & 14:00-17:00 
+#### Tue 20th Nov 2018: 10:00-13:00 & 14:00-17:00
+#### Tue 27th Nov 2018: 10:00-13:00 & 14:00-17:00
+#### Tue 04th Dec 2018: 10:00-13:00 & 14:00-17:00 
+#### Tue 10th Dec 2018: 10:00-13:00 & 14:00-17:00
+#### Tue 18th Dec 2018: 10:00-13:00 & 14:00-17:00 
 
 ## Learning objectives
 By the end of module 2, learners will be able to:
