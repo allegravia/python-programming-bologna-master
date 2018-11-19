@@ -6,6 +6,7 @@
 ## Timetable
 
 ### Tue 20th Nov 2018: 10:00-13:00 & 14:00-17:00
+Shared notes: http://bit.ly/2qUJsNH
 ### Tue 27th Nov 2018: 10:00-13:00 & 14:00-17:00
 ### Tue 04th Dec 2018: 10:00-13:00 & 14:00-17:00 
 ### Tue 10th Dec 2018: 10:00-13:00 & 14:00-17:00
@@ -23,14 +24,13 @@ By the end of module 2, learners will be able to:
 - Introduction to computational thinking (CT)
 - Introduction to programming
 
-Python programming
+**Python programming**
 
 - Python shell
-    - Variables
-    - Importing modules
-    - Data types: integers, floating
-    - math
-    
+- Variables
+- Importing modules
+- Data types: integers, floating
+- math  
 - Python language structure (components of Python)
 
 - Python programs
@@ -40,25 +40,27 @@ Python programming
 - Reading and writing files 
     - Reading input from a file
     - Writing to files
-    - Commenting your code
     
+- Commenting your code   
 - Data Type: strings
 - Manipulating strings
-
 - File formats in bioinformatics
 - if conditions
 - for loops
 - while loops
-- Python types: Lists
+
+- Data types: 
+        - Lists
+        - Tuples
+        - Dictionaries
+        - Sets
 
 - Functions
     - Built-ins
     - Namespaces
     - Functions
-    
-- Data types: Tuples
-- Data types: Dictionaries
-- Data types: Sets
+
+- Variables and references 
 
 - More on strings
     - String concatenation
@@ -69,11 +71,13 @@ Python programming
     - Error handling
     - try...except
     
+- Recursion
+    
 - Python Libraries
     - Regular expressions
     
 - Dynamic programming
-    - Implementation of 
+    - Implementation of algorithms
 
 # Exam
 
