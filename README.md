@@ -5,6 +5,8 @@
 
 ### Useful links
 - Shared notes from 20-11-2018: http://bit.ly/2qUJsNH
+- https://docs.google.com/document/d/1j3H3RW3B3YMMfbsP2l0JTgnlsG8fWmBOIrRnf81kEf4/edit?usp=sharing
+- This repository: https://github.com/allegravia/python-programming-bologna-master
 - Software Carpentry website: https://software-carpentry.org
 - SWC The Unix Shell: http://swcarpentry.github.io/shell-novice/
 - SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
