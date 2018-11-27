@@ -47,13 +47,13 @@ Task: Calculate the volume of a cell <br>
 - Use variables for the parameters.
 - Print the volume to the screen
 
-### Pseudocode
+### Pseudocode:
 Import the module math <br>
 Define the variable(s) to be used <br>
 Calculate the volume of a sphere <br>
 Output result displaying the volume <br>
 
-### Source code
+### Source code:
 from math import pi <br>
 R = 10.0 <br>
 V = (4.0/3.0)*pi*(R*\*3) <br>
@@ -68,8 +68,7 @@ Convert f to Celsius <br>
 Round f to the nearest whole number
 Output message displaying Celsius temperature <br>
 
-Example code: <br>
-
+### Source code:
 f = raw_input("Please input a temperature in Farhenheit:  ") <br>
 f = float(f) <br>
 f = (f - 32) * 5.0 / 9.0 <br>
