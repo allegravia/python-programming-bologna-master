@@ -93,7 +93,7 @@ By the end of module 2, learners will be able to:
 # Exam
 
 ## Midterm exam
-December 10th, 2018
+December 11th, 2018
 
 *Written exam:*
 Basic concepts of programming and Python syntax <br>
