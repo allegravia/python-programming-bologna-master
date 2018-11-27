@@ -8,6 +8,7 @@
 - Shared notes from 27-11-2018: http://bit.ly/2DIxXAJ
 - This repository: https://github.com/allegravia/python-programming-bologna-master
 - Python course materials: https://github.com/ELIXIR-IIB-training/python_course
+- Python 3 - An Introductory Tutorial (by David Judge): https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html
 - Software Carpentry website: https://software-carpentry.org
 - SWC The Unix Shell: http://swcarpentry.github.io/shell-novice/
 - SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
