@@ -7,6 +7,7 @@
 - Shared notes from 20-11-2018: http://bit.ly/2qUJsNH
 - Shared notes from 27-11-2018: http://bit.ly/2DIxXAJ
 - This repository: https://github.com/allegravia/python-programming-bologna-master
+- Python course materials: https://github.com/ELIXIR-IIB-training/python_course
 - Software Carpentry website: https://software-carpentry.org
 - SWC The Unix Shell: http://swcarpentry.github.io/shell-novice/
 - SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
