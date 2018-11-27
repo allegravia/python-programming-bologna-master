@@ -68,12 +68,13 @@ Convert f to Celsius <br>
 Round f to the nearest whole number
 Output message displaying Celsius temperature <br>
 
-Example code:
-f = raw_input("Please input a temperature in Farhenheit:  ")
-f = float(f)
-f = (f - 32) * 5.0 / 9.0
-f = round(f)
-print("Your temperature in Celsius is: %s." %f)
+Example code: <br>
+
+f = raw_input("Please input a temperature in Farhenheit:  ") <br>
+f = float(f) <br>
+f = (f - 32) * 5.0 / 9.0 <br>
+f = round(f) <br>
+print("Your temperature in Celsius is: %s." %f) <br>
 
 
 ## Formatting rules for pseudocode
