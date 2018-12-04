@@ -15,6 +15,8 @@
 - SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
 - GitHub Hello World guide: https://guides.github.com/activities/hello-world/
 - Guide to create a GitHub account: https://lab.github.com
+- Exercises from Giuseppe Profiti and Teresa Tavella: https://www.authorea.com/users/25740/articles/293018-python-programming-exercises?access_token=5POxcJpSU06MZ8k437cugQ
+
 
 ## Timetable
 
