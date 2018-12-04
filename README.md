@@ -5,8 +5,10 @@
 
 ### Useful links
 - Shared notes from 20-11-2018: http://bit.ly/2qUJsNH
-- https://docs.google.com/document/d/1j3H3RW3B3YMMfbsP2l0JTgnlsG8fWmBOIrRnf81kEf4/edit?usp=sharing
+- Shared notes from 27-11-2018: http://bit.ly/2DIxXAJ
 - This repository: https://github.com/allegravia/python-programming-bologna-master
+- Python course materials: https://github.com/ELIXIR-IIB-training/python_course
+- Python 3 - An Introductory Tutorial (by David Judge): https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html
 - Software Carpentry website: https://software-carpentry.org
 - SWC The Unix Shell: http://swcarpentry.github.io/shell-novice/
 - SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
@@ -18,7 +20,7 @@
 - Tue 20th Nov 2018: 10:00-13:00 & 14:00-17:00
 - Tue 27th Nov 2018: 10:00-13:00 & 14:00-17:00
 - Tue 04th Dec 2018: 10:00-13:00 & 14:00-17:00 
-- Tue 10th Dec 2018: 10:00-13:00 & 14:00-17:00
+- Tue 11th Dec 2018: 10:00-13:00 & 14:00-17:00
 - Tue 18th Dec 2018: 10:00-13:00 & 14:00-17:00 
 
 ## Learning objectives
@@ -91,7 +93,7 @@ By the end of module 2, learners will be able to:
 # Exam
 
 ## Midterm exam
-December 10th, 2018
+December 11th, 2018
 
 *Written exam:*
 Basic concepts of programming and Python syntax <br>
