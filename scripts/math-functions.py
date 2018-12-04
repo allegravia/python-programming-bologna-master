@@ -34,13 +34,12 @@ def test_roots_of_equation():
 def distance(p1, p2):
     '''Input: the coordinates (x, y, z) of the two points p1 and p2;
        Output: the distance in the 3D space of the two points p1 and p2'''
-       pass
+    pass
 
 
 def even_or_odd(a):
     '''Input: a number; Output: the string "odd" if the input number is odd, 
        the string "even" if the input number is even'''
-
     pass
 
 
