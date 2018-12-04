@@ -6,6 +6,7 @@
 ### Useful links
 - Shared notes from 20-11-2018: http://bit.ly/2qUJsNH
 - Shared notes from 27-11-2018: http://bit.ly/2DIxXAJ
+- Shared notes from 04-11-2018: http://bit.ly//2RDplj6
 - This repository: https://github.com/allegravia/python-programming-bologna-master
 - Python course materials: https://github.com/ELIXIR-IIB-training/python_course
 - Python 3 - An Introductory Tutorial (by David Judge): https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html
