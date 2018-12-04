@@ -6,6 +6,7 @@
 ### Useful links
 - Shared notes from 20-11-2018: http://bit.ly/2qUJsNH
 - Shared notes from 27-11-2018: http://bit.ly/2DIxXAJ
+- Shared notes from 04-11-2018: http://bit.ly//2RDplj6
 - This repository: https://github.com/allegravia/python-programming-bologna-master
 - Python course materials: https://github.com/ELIXIR-IIB-training/python_course
 - Python 3 - An Introductory Tutorial (by David Judge): https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html
@@ -14,6 +15,8 @@
 - SWC Version Control with Git: http://swcarpentry.github.io/git-novice/
 - GitHub Hello World guide: https://guides.github.com/activities/hello-world/
 - Guide to create a GitHub account: https://lab.github.com
+- Exercises from Giuseppe Profiti and Teresa Tavella: https://www.authorea.com/users/25740/articles/293018-python-programming-exercises?access_token=5POxcJpSU06MZ8k437cugQ
+
 
 ## Timetable
 
