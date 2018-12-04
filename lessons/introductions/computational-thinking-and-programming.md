@@ -2,7 +2,7 @@
 
 - Computational thinking (CT) rather than "just computer programming skills"
 
-- Looking at a problem in a way that a computer can helo people to solve it
+- Looking at a problem in a way that a computer can help people to solve it
 
 - Formulating problems in a way that enables us to use a computer to help solve them
 
